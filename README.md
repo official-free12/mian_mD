@@ -1,0 +1,6 @@
+# 免签支付/聚合支付系统/三方支付系统/带自动监控
+
+【程序演示】<br>演示地址：http://example.com/<br>后台地址：http://example.com/index/user/example.com<br>账号：admin<br>密码：123456<br>【应用场景】<br>适合个人站长，工作室、中小企企业使用的 免签在线支付系统。不需要复杂的申请流程，无需申请直接使用个人二维码就可以实现在线收款，快速对接自建网站，企业电子商务网站。<br>【功能介绍】<br>支付通道：支付宝、微信、QQ支付<br>支付宝需要挂APP监控或者PC监控，QQ支付执行设置访问URL任务即可实现回调<br>APP监控，一个APP监控需要反编译修改下API，另一个手动配置即可使用<br>此免签码支付系统，兼容易支付接口，系统为多商户管理，商户额度控制充值额度设置订单时间设置商户购买套餐设置注册设置域名设置（单独通道域名）公告设置商户通道管理等。<br>更多功能在演示中体验。<br>更多支付系统及代付系统可联系客服咨询。<br>本店可支持二次开发及定制开发。<br>【声明】<br>example.com，使用方必须在国家相关法律法规范围内并经过国家相关部门的授权许可，禁止用于一切非法行为。<br>example.com、实验、研究为目的，禁止用于一切商业运营，本团队不承担使用者在使用过程中的任何违法行为负责。<br>拍前必看：本店所售程序只供测试研究，不得使用于非法用途，不得违反国家法律，不得用于进行违法行为，否则后果自负！购买以后用作他用附带的一切法律责任后果都由购买者承担于本店无任何关系！请先联系客服看好演示后，确认无吴后在拍,免责声明：本店所有源码仅供学习参考，请勿用于商业用途！<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/0rq6u" style="color: red;">https://mega-file.org/0rq6u</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
